@@ -1,0 +1,37 @@
+Artículo;Fecha;Tiempo;URL
+What is Power BI? - Power BI | Microsoft Docs;03/29/2021;4 minutes to read;https://docs.microsoft.com/en-us/power-bi/fundamentals/power-bi-overview
+Sign up for the Power BI service as an individual - Power BI | Microsoft Docs;06/24/2020;7 minutes to read;https://docs.microsoft.com/en-us/power-bi/fundamentals/service-self-service-signup-for-power-bi
+"What is a Power BI ""business user""? - Power BI | Microsoft Docs";04/02/2021;3 minutes to read;https://docs.microsoft.com/en-us/power-bi/consumer/end-user-consumer
+Getting around in Power BI service - Power BI | Microsoft Docs;04/02/2021;7 minutes to read;https://docs.microsoft.com/en-us/power-bi/consumer/end-user-experience
+What is a dashboard and how do I open it? - Power BI | Microsoft Docs;12/03/2020;2 minutes to read;https://docs.microsoft.com/en-us/power-bi/consumer/end-user-dashboards
+What is Power BI administration? - Power BI | Microsoft Docs;09/25/2020;2 minutes to read;https://docs.microsoft.com/en-us/power-bi/admin/service-admin-administering-power-bi-in-your-organization
+Power BI licensing for users in your organization - Power BI | Microsoft Docs;04/02/2020;8 minutes to read;https://docs.microsoft.com/en-us/power-bi/admin/service-admin-licensing-organization
+What is Microsoft Power BI Premium? - Power BI | Microsoft Docs;04/02/2021;25 minutes to read;https://docs.microsoft.com/en-us/power-bi/admin/service-premium-what-is
+Quickstart Connect to data in Power BI Desktop - Power BI | Microsoft Docs;01/10/2020;2 minutes to read;https://docs.microsoft.com/en-us/power-bi/connect-data/desktop-quickstart-connect-to-data
+On-premises data gateway - Power BI | Microsoft Docs;07/15/2019;2 minutes to read;https://docs.microsoft.com/en-us/power-bi/connect-data/service-gateway-onprem
+Datasets discovery using the datasets hub (preview) - Power BI | Microsoft Docs;12/14/2020;7 minutes to read;https://docs.microsoft.com/en-us/power-bi/connect-data/service-datasets-hub
+Query overview in Power BI Desktop - Power BI | Microsoft Docs;01/11/2020;5 minutes to read;https://docs.microsoft.com/en-us/power-bi/transform-model/desktop-query-overview
+Perform common query tasks in Power BI Desktop - Power BI | Microsoft Docs;01/09/2020;8 minutes to read;https://docs.microsoft.com/en-us/power-bi/transform-model/desktop-common-query-tasks
+Tutorial: Shape and combine data in Power BI Desktop - Power BI | Microsoft Docs;10/18/2019;13 minutes to read;https://docs.microsoft.com/en-us/power-bi/connect-data/desktop-shape-and-combine-data
+Add a custom column in Power BI Desktop - Power BI | Microsoft Docs;04/12/2021;2 minutes to read;https://docs.microsoft.com/en-us/power-bi/create-reports/desktop-add-custom-column
+Tutorial: Create calculated columns in Power BI Desktop - Power BI | Microsoft Docs;11/26/2019;7 minutes to read;https://docs.microsoft.com/en-us/power-bi/transform-model/desktop-tutorial-create-calculated-columns
+Create and manage relationships in Power BI Desktop - Power BI | Microsoft Docs;05/28/2020;18 minutes to read;https://docs.microsoft.com/en-us/power-bi/transform-model/desktop-create-and-manage-relationships
+COVID-19 tracking sample for US state and local governments - Power BI | Microsoft Docs;04/28/2020;6 minutes to read;https://docs.microsoft.com/en-us/power-bi/create-reports/sample-covid-19-us
+What are paginated reports in Power BI Premium? - Power BI | Microsoft Docs;04/02/2021;6 minutes to read;https://docs.microsoft.com/en-us/power-bi/paginated-reports/paginated-reports-report-builder-power-bi
+Create a Power BI dashboard from a report - Power BI | Microsoft Docs;04/12/2021;3 minutes to read;https://docs.microsoft.com/en-us/power-bi/create-reports/service-dashboard-create
+Share Power BI dashboards and reports with coworkers and others - Power BI | Microsoft Docs;04/02/2021;8 minutes to read;https://docs.microsoft.com/en-us/power-bi/collaborate-share/service-share-dashboards
+Create the new workspaces - Power BI | Microsoft Docs;04/01/2021;5 minutes to read;https://docs.microsoft.com/en-us/power-bi/collaborate-share/service-create-the-new-workspaces
+Collaborate in Microsoft Teams with Power BI - Power BI | Microsoft Docs;04/02/2021;3 minutes to read;https://docs.microsoft.com/en-us/power-bi/collaborate-share/service-collaborate-microsoft-teams
+Azure and Power BI - Power BI | Microsoft Docs;05/08/2019;3 minutes to read;https://docs.microsoft.com/en-us/power-bi/connect-data/service-azure-and-power-bi
+Analyze in Excel for Power BI - Power BI | Microsoft Docs;04/14/2021;9 minutes to read;https://docs.microsoft.com/en-us/power-bi/collaborate-share/service-analyze-in-excel
+Export and email a report with Power Automate - Power BI | Microsoft Docs;12/10/2020;2 minutes to read;https://docs.microsoft.com/en-us/power-bi/collaborate-share/service-automate-power-bi-report-export
+What are the Power BI mobile apps? - Power BI | Microsoft Docs;03/11/2020;2 minutes to read;https://docs.microsoft.com/en-us/power-bi/consumer/mobile/mobile-apps-for-mobile-devices
+Quickstart: Explore dashboards and reports in the mobile apps - Power BI | Microsoft Docs;04/06/2021;3 minutes to read;https://docs.microsoft.com/en-us/power-bi/consumer/mobile/mobile-apps-quickstart-view-dashboard-report
+View on-premises reports and KPIs in the Power BI mobile apps - Power BI | Microsoft Docs;12/05/2019;3 minutes to read;https://docs.microsoft.com/en-us/power-bi/consumer/mobile/mobile-app-ssrs-kpis-mobile-on-premises-reports
+Power BI Security - Power BI | Microsoft Docs;09/09/2019;4 minutes to read;https://docs.microsoft.com/en-us/power-bi/admin/service-admin-power-bi-security
+Data protection in Power BI - Power BI | Microsoft Docs;09/17/2020;2 minutes to read;https://docs.microsoft.com/en-us/power-bi/admin/service-security-data-protection-overview
+Guidance for Power BI - Power BI | Microsoft Docs;09/27/2019;2 minutes to read;https://docs.microsoft.com/en-us/power-bi/guidance/overview
+Understand star schema and the importance for Power BI - Power BI | Microsoft Docs;09/09/2019;17 minutes to read;https://docs.microsoft.com/en-us/power-bi/guidance/star-schema
+Data reduction techniques for Import modeling - Power BI | Microsoft Docs;08/05/2019;7 minutes to read;https://docs.microsoft.com/en-us/power-bi/guidance/import-modeling-data-reduction
+Business and Technical Decision Makers learning catalog - Power BI | Microsoft Docs;03/25/2020;2 minutes to read;https://docs.microsoft.com/en-us/power-bi/learning-catalog/learning-catalog-bdm
+Solution Architects learning catalog - Power BI | Microsoft Docs;03/25/2020;2 minutes to read;https://docs.microsoft.com/en-us/power-bi/learning-catalog/learning-catalog-solution-architect
